@@ -1,0 +1,110 @@
+body{
+    background-color: #ffffff;
+}
+
+#tut{
+    border: 2px solid;
+    height: 490px;
+    display: block;
+    margin-right: 1250px;
+    background-color: #F8F9FA;
+}
+
+table{
+    border: 1px solid #A2A9B1;
+    border-radius: 0px ;
+    background-color: #F8F9FA;
+    float: right;
+    height: 700px;
+    
+    }
+    
+td{
+    text-align: center;
+    
+}
+
+#vice{
+    text-align: left;
+}
+
+#prime{
+    text-align: left;
+}
+
+#prec{
+    text-align: left;
+}
+
+#suc{
+    text-align: left;
+}
+
+#presi{
+    background-color: #a2a6b1;
+}
+  
+#first{
+    background-color: #a2a6b1;
+}
+ 
+#prd{
+    text-align: left;
+}
+
+#off{
+    text-align: left;
+}
+
+#sucee{
+    text-align: left;
+}
+
+#mini{
+    text-align: left;
+}
+
+#per{
+    background-color: #a2a6b1;
+}
+
+#born{
+    text-align: left;
+}
+
+#die{
+    text-align: left;
+}
+
+@media only screen and
+    (max-width: 620px)
+    {
+        .tab,p1,p2,p3{
+            width:100%;
+            background-color: #ffffff;
+        }
+        #tut,.p4{
+            display:none;
+        }
+        .tab{
+            background-color:#F8F9FA;
+            border: 1px solid #A2A9B1;
+        }
+    }
+
+    @media only screen and
+    (max-width: 500px)
+    {
+        .tab,p1,p2,p3{
+            width:100%;
+            background-color: #ffffff;
+        }
+        #tut,.p4{
+            display:none;
+        }
+        .tab{
+            background-color:#F8F9FA;
+            border: 1px solid #A2A9B1;
+        }
+    }
+
